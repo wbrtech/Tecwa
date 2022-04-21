@@ -2,8 +2,7 @@
 
 <a href="https://uploaddeimagens.com.br/images/003/838/498/original/ImagensTI.png?1650582479" title="Clique e acesse agora!">Minha Logo</a>
 
-<a href="mailto:wawbwr@gmail.com">wawbwr@gmail.com</a>
-
+<a href="mailto:wawbwr@gmail.com">E-mail</a>
 
 <!--
 **wbrtech/wbrtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
