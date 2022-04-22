@@ -1,6 +1,5 @@
 ###### Olá Seja muito bem vindo! Em meu Github.
-
-Here are some ideas to get you started:
+re are some ideas to get you started:
 
 - 🔭 I’m currently woking com  infraestrutura de redes e servidores!
 - 🌱 I’m currently learning  AWS!
