@@ -17,6 +17,7 @@ re are some ideas to get you started:
   <a href=""><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+  https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
 
 </div>
 
